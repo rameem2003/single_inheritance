@@ -19,8 +19,8 @@ namespace single_inheritance
         {
             bonus obj = new bonus();
 
-            Console.WriteLine("Member salary is: " + obj.member_salary + " TK");
-            Console.WriteLine("Member bonus is: " + obj.member_bonus + " TK");
+            Console.WriteLine("Member salary is: " + obj.member_salary + " TK. Thank you.");
+            Console.WriteLine("Member bonus is: " + obj.member_bonus + " TK Thank you.");
         }
     }
 }
